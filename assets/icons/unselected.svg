@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="52" viewBox="0 0 34 52">
+  <g id="Group_103" data-name="Group 103" transform="translate(-173.564 -236.451)">
+    <line id="Line_9" data-name="Line 9" y1="16.564" transform="translate(191.012 266.159)" fill="none" stroke="#b53131" stroke-linecap="round" stroke-width="3"/>
+    <g id="Path_314" data-name="Path 314" transform="translate(173.564 236.451)" fill="none">
+      <path d="M 29 29 L 5 29 C 2.794389963150024 29 1 27.20561027526855 1 25 L 1 5 C 1 2.794389963150024 2.794389963150024 1 5 1 L 29 1 C 31.20561027526855 1 33 2.794389963150024 33 5 L 33 25 C 33 27.20561027526855 31.20561027526855 29 29 29 Z" stroke="none"/>
+      <path d="M 5 2 C 3.345790863037109 2 2 3.345790863037109 2 5 L 2 25 C 2 26.65420913696289 3.345790863037109 28 5 28 L 29 28 C 30.65420913696289 28 32 26.65420913696289 32 25 L 32 5 C 32 3.345790863037109 30.65420913696289 2 29 2 L 5 2 M 5 0 L 29 0 C 31.76141929626465 0 34 2.238580703735352 34 5 L 34 25 C 34 27.76141929626465 31.76141929626465 30 29 30 L 5 30 C 2.238580703735352 30 0 27.76141929626465 0 25 L 0 5 C 0 2.238580703735352 2.238580703735352 0 5 0 Z" stroke="none" fill="#b53131"/>
+    </g>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="1.5" cy="1.5" r="1.5" transform="translate(189.564 285.451)" fill="#b53131"/>
+    <g id="location" transform="translate(181.73 242.521)">
+      <g id="Group_4" data-name="Group 4" transform="translate(11.834 0.001)">
+        <g id="Group_3" data-name="Group 3">
+        </g>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(0 0)">
+        <g id="Group_5" data-name="Group 5" transform="translate(0)">
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.131" height="41.503" viewBox="0 0 30.131 41.503">
+  <g id="Group_145" data-name="Group 145" transform="translate(195.131 310.998) rotate(180)">
+    <g id="Group_144" data-name="Group 144" transform="translate(165 269.495)">
+      <g id="medal_1_" data-name="medal (1)" transform="translate(0)">
+        <g id="Group_143" data-name="Group 143">
+          <path id="Path_357" data-name="Path 357" d="M271.541,355.114l1.645.08,3.19,9.165a.422.422,0,0,1-.442.558l-4.472-.468a.422.422,0,0,0-.339.118l-3.214,3.143a.422.422,0,0,1-.693-.163l-3.211-9.225.947-.919Z" transform="translate(-248.291 -326.328)" fill="#b53131"/>
+          <path id="Path_358" data-name="Path 358" d="M256.649,338.165,256,336.3l9.183-3.123.647,1.858A16.856,16.856,0,0,1,256.649,338.165Z" transform="translate(-240.935 -306.17)" fill="#db3131"/>
+          <path id="Path_355" data-name="Path 355" d="M99.94,355.114l-1.645.08L95.1,364.36a.422.422,0,0,0,.442.558l4.472-.468a.422.422,0,0,1,.339.118l3.214,3.143a.422.422,0,0,0,.693-.163l3.211-9.225-.947-.919Z" transform="translate(-93.06 -326.328)" fill="#b53131"/>
+          <path id="Path_356" data-name="Path 356" d="M143.911,338.165l.649-1.864-9.183-3.123-.647,1.858A16.856,16.856,0,0,0,143.911,338.165Z" transform="translate(-129.495 -306.17)" fill="#db3131"/>
+          <path id="Path_359" data-name="Path 359" d="M85.419,29.191c-15.065,0-15.059-14.634-15.047-14.885a15.066,15.066,0,0,1,30.093,0C100.478,14.558,100.484,29.191,85.419,29.191Z" transform="translate(-70.353)" fill="#fed42d"/>
+          <path id="Path_360" data-name="Path 360" d="M85.213,190.79a15.066,15.066,0,0,1-15.046-14.306q-.019.377-.019.759a15.065,15.065,0,1,0,30.131,0q0-.382-.019-.759A15.066,15.066,0,0,1,85.213,190.79Z" transform="translate(-70.148 -162.178)" fill="#cca91b"/>
+          <path id="Path_361" data-name="Path 361" d="M121.715,59.309c-11.844,0-11.86-11.647-11.844-11.9a11.869,11.869,0,0,1,23.689,0C133.576,47.662,133.56,59.309,121.715,59.309Z" transform="translate(-106.65 -33.359)" fill="#fff"/>
+          <path id="Path_362" data-name="Path 362" d="M121.456,187.593a11.868,11.868,0,0,1-11.843-11.109c-.016.251-.025.5-.025.759a11.868,11.868,0,1,0,23.737,0c0-.255-.009-.508-.025-.759A11.868,11.868,0,0,1,121.456,187.593Z" transform="translate(-106.391 -162.178)" fill="#eee"/>
+        </g>
+      </g>
+    </g>
+    <text id="_890" data-name="890" transform="translate(179.604 281.493) rotate(180)" fill="#b53131" font-size="14" font-family="MT_YekanSquareBoom-Bold, MT_Yekan Square Boom" font-weight="700" letter-spacing="-0.041em"><tspan x="-8.03" y="0">890</tspan></text>
+  </g>
+</svg>

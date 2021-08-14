@@ -1,0 +1,2 @@
+# bazarche_mobile
+
